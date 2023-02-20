@@ -19,3 +19,13 @@ p {
 li{
    color:rgb(245, 241, 2);
 }
+
+img{
+   height:auto;
+   width: 500px;
+}
+
+h3{
+   color:rgb(245, 241, 2);
+   font-size: 24px;
+}
