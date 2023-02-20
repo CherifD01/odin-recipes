@@ -1,5 +1,21 @@
+html{
+   background-color: black;
+}
+
+body{
+   font-family: "Arial", sans-serif;
+}
+
+.title{
+   color: rgb(245, 241, 2);
+}
+
 p {
-   color: red;
-   background-color: blue;
+   color: rgb(245,241,2);
    font-size: 24px;
+   text-align: center;
+}
+
+li{
+   color:rgb(245, 241, 2);
 }
