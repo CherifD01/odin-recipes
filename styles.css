@@ -15,7 +15,7 @@ p {
    text-align: center;
 }
 
-li{
+li, #djablini-title{
    color:rgb(245, 241, 2);
 }
 
@@ -37,5 +37,22 @@ h3{
 #yassa-background{
    background-color: rgb(245, 241, 2);
 }
+
+/*  Specific Thieboudienne styles will appear here */
+
+.thieb-photo{
+   height:auto;
+   width: 300px;
+}
+
+#thieb-background{
+   background-color: rgb(13, 88, 15);
+}
+
+.thieb-subtitle, #thieb-title{
+   color: rgb(160, 5, 5);
+}
+
+
 
 
